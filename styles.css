@@ -1,0 +1,42 @@
+.container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #e4a6c5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #ffe7f8;
+  font-size: 4rem;
+  color: #3B1C32;
+}
+
+p {
+  font-size: 2rem;
+  text-shadow: 3px 0 #cd9abf;
+  color: #81797f;
+  font-family: 'Faculty Glyphic', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #000000;
+  text-align: center;
+  font-family: 'Times New Roman', cursive;
+
+}
